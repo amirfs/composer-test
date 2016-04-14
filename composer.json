@@ -1,0 +1,19 @@
+{
+    "name": "amirfahimi/helloworld",
+    "description": "simple composer package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "amirfahimi",
+            "email": "amir.fahimi.sabet@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+	},"autoload": {
+        "psr-0": {
+            "phpro": "src/"
+        }
+    }
+}
